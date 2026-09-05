@@ -50,11 +50,12 @@ Before sharing, check phone and desktop layouts, 200% zoom, keyboard navigation,
 
 ## Design references
 
-The university palette uses Notre Dame Blue `#0c2340`, Gold `#ae9142`, Medium Blue `#143865`, and Light Sky Blue `#edf2f9`, from [Notre Dame’s official university color guide](https://onmessage.nd.edu/university-branding/colors/). Typography uses locally available Georgia and system sans-serif. The LH initials are personal branding; no university logo or seal is included. This is an independent personal site.
+The university palette uses Notre Dame Blue `#0c2340`, Gold `#ae9142`, Medium Blue `#143865`, and Light Sky Blue `#edf2f9`, from [Notre Dame’s official university color guide](https://onmessage.nd.edu/university-branding/colors/). Typography uses locally available Georgia and system sans-serif. The LMH initials are personal branding; no university logo or seal is included. This is an independent personal site.
 
 Deployment references (checked September 2026):
 - [Managing a GitHub Pages custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 - [Verifying your custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
 - [Securing GitHub Pages with HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)
+
 
 
